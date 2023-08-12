@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="picocom-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.50762991"
+     inkscape:cx="477.71023"
+     inkscape:cy="684.55383"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="1920"
+     inkscape:window-y="471"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       inkscape:export-filename="g1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.8667px;line-height:1.25;font-family:'Commodore 64';-inkscape-font-specification:'Commodore 64, ';stroke-width:0.264583"
+         x="63.604073"
+         y="96.4394"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Commodore 64';-inkscape-font-specification:'Commodore 64, ';stroke-width:0.264583"
+           x="63.604073"
+           y="96.4394" /></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:33.8667px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';stroke-width:0.264583"
+         x="52.137642"
+         y="98.482574"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="stroke-width:0.264583"
+           x="52.137642"
+           y="98.482574" /></text>
+      <g
+         id="g14"
+         transform="translate(-7.7718652,-1.1719991)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.8667px;line-height:1.25;font-family:'C64 Pro';-inkscape-font-specification:'C64 Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="13.207129"
+           y="54.255753"
+           id="text1"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.8667px;font-family:'C64 Pro';-inkscape-font-specification:'C64 Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             x="13.207129"
+             y="54.255753">pico</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.8667px;line-height:1.25;font-family:'C64 Pro';-inkscape-font-specification:'C64 Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0.264583"
+           x="118.36036"
+           y="54.346062"
+           id="text4"><tspan
+             sodipodi:role="line"
+             id="tspan4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.8667px;font-family:'C64 Pro';-inkscape-font-specification:'C64 Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0.264583"
+             x="118.36036"
+             y="54.346062">com</tspan></text>
+      </g>
+      <g
+         id="g13"
+         transform="matrix(0.75,0,0,0.75,25.446995,5.2035961)">
+        <ellipse
+           style="fill:#000000;stroke:#d40000;stroke-width:0;stroke-dasharray:none"
+           id="path4"
+           cx="56.271412"
+           cy="20.814384"
+           rx="5.3354478"
+           ry="5.5728378" />
+        <ellipse
+           style="fill:#000000;stroke:#d40000;stroke-width:0;stroke-dasharray:none"
+           id="ellipse4"
+           cx="78.067879"
+           cy="20.814384"
+           rx="5.3354478"
+           ry="5.5728378" />
+        <ellipse
+           style="fill:#000000;stroke:#d40000;stroke-width:0;stroke-dasharray:none"
+           id="ellipse5"
+           cx="99.864342"
+           cy="20.814384"
+           rx="5.3354478"
+           ry="5.5728378" />
+        <ellipse
+           style="fill:#000000;stroke:#d40000;stroke-width:0;stroke-dasharray:none"
+           id="ellipse6"
+           cx="121.66081"
+           cy="20.814384"
+           rx="5.3354478"
+           ry="5.5728378" />
+        <ellipse
+           style="fill:#000000;stroke:#d40000;stroke-width:0;stroke-dasharray:none"
+           id="ellipse7"
+           cx="143.45728"
+           cy="20.814384"
+           rx="5.3354478"
+           ry="5.5728378" />
+      </g>
+      <g
+         id="g12"
+         transform="matrix(0.75,0,0,0.75,36.506395,2.9335192)">
+        <ellipse
+           style="fill:#000000;stroke:#d40000;stroke-width:0;stroke-dasharray:none"
+           id="ellipse8"
+           cx="52.423775"
+           cy="81.670555"
+           rx="5.3354478"
+           ry="5.5728378" />
+        <ellipse
+           style="fill:#000000;stroke:#d40000;stroke-width:0;stroke-dasharray:none"
+           id="ellipse9"
+           cx="74.220245"
+           cy="81.670555"
+           rx="5.3354478"
+           ry="5.5728378" />
+        <ellipse
+           style="fill:#000000;stroke:#d40000;stroke-width:0;stroke-dasharray:none"
+           id="ellipse10"
+           cx="96.016708"
+           cy="81.670555"
+           rx="5.3354478"
+           ry="5.5728378" />
+        <ellipse
+           style="fill:#000000;stroke:#d40000;stroke-width:0;stroke-dasharray:none"
+           id="ellipse11"
+           cx="117.81318"
+           cy="81.670555"
+           rx="5.3354478"
+           ry="5.5728378" />
+      </g>
+    </g>
+  </g>
+</svg>
